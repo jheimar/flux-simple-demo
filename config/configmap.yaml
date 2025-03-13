@@ -4,4 +4,4 @@ metadata:
   name: my-config
   namespace: default
 data:
-  message: "¡Hola desde GitOps con Flux!"
+  message: "¡Este mensaje fue actualizado con GitOps!"
