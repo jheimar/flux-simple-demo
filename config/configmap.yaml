@@ -4,4 +4,4 @@ metadata:
   name: my-config
   namespace: default
 data:
-  message: "¡Primer paso con flux!"
+  message: "¡Primer paso con flux!2"
